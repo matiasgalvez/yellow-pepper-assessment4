@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Pet","Send a Request to get Pet details with a non existing id","SUCCESS","2024-05-30T10:50:10.0693932-03:00[America/Buenos_Aires]","0.0","0.04"
