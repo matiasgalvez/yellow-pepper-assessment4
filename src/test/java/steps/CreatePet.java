@@ -5,8 +5,6 @@ import io.restassured.response.Response;
 import net.serenitybdd.rest.SerenityRest;
 import utils.RequestBody;
 
-import static net.serenitybdd.rest.SerenityRest.post;
-
 public class CreatePet {
     private static final String URL = "http://localhost:8080/api/v3/pet";
     public Response response;
@@ -15,7 +13,6 @@ public class CreatePet {
             "Max",
             "available"
             );
-
 
     @Given("I send a request to the URL to create a pet with valid data")
     public void sendValidRequest() {

@@ -1,3 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Update Pet","Send a Request to update a Pet with valid data","SUCCESS","2024-05-30T10:38:16.7623201-03:00[America/Buenos_Aires]","0.0","0.04"
-"Update Pet","Send a Request to update a Pet with invalid data","SUCCESS","2024-05-30T10:38:16.8098519-03:00[America/Buenos_Aires]","0.0","0.04"

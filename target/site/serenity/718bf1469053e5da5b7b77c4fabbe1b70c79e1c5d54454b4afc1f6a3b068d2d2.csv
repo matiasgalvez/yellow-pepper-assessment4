@@ -1,2 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Create Pet","Send a Request to create a Pet with invalid data","SUCCESS","2024-05-30T10:50:10.3082562-03:00[America/Buenos_Aires]","0.0","0.07"
+"Create Pet","Send a Request to create a Pet with invalid data","SUCCESS","2024-05-31T01:33:13.3813363-03:00[America/Buenos_Aires]","0.0","0.05"
+"Create Pet","[TC-004] Send a Request to create a Pet with invalid data","SUCCESS","2024-05-31T01:37:17.72695-03:00[America/Buenos_Aires]","0.0","0.05"
+"Create Pet","[TC-004] Validate that sending a Request to create a Pet with invalid data errors","SUCCESS","2024-05-31T01:40:54.763426-03:00[America/Buenos_Aires]","0.0","0.06"
