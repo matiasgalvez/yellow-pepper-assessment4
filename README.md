@@ -36,15 +36,9 @@ Additional plugins:
 
 ***
 
-**Testing reports**:  
-With each test suite execution a Serenity single html report will be generated in `target/site/serenity/index.html`.
-
-***
-
 ### Test Cases
 
 Happy path and Unhappy Path for an endpoint of each Request Type.
-**Happy Paths**
 
 > **FEATURE**: PetStore | Get Pet Data
 > - [x] [TC-001] Validate that sending a Request to get Pet details with an existing id works **Happy Path**
@@ -92,32 +86,10 @@ src
 
 2. Standing in project root run the following command in terminal `./gradlew build`
 
-3Ejecutar las pruebas en el proyecto
-    * **Opción 1**: ejecutar `./gradlew clean test aggregate` en la ruta del proyecto o puede hacerlo por medio de este
-      comando:
-
-    ```bash
-    gradle clean test --no-build-cache -Denvironment=dev -Dcucumber.filter.tags="@integrationTest"
-    ```
-
-* **Opción 2**: Ir a las clases de la carpeta **runners** `src/test/java/org/api/testing/demo/runners` y ejecutar
-  cada Runner.
+3. Execute tests by going to the runner folder and executing `SerenityRunnerTest`
 
 ***
 
-## 📄 Generación de informes
+## Test Reports
 
-El informe al detalle con los pasos y resultados de las pruebas que se registrará en la ruta:
-`target/site/serenity/index.html`.
-
-Adicional se genera un reporte single page si se desea una revisión de alto nivel sobre los resultados de los test, el
-cual se registrará en la ruta:
-`target/site/serenity/serenity-summary.html`.
-
-Este comando permitirá generar ambos reportes:
-
-```bash
-./gradlew reports
-```
-
-***
+The test report will be generated with each runner run in `target/site/serenity/index.html`.

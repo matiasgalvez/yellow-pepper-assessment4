@@ -1,7 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Get Pet","Send a Request to get Pet details with an existing id","SUCCESS","2024-05-31T01:33:11.1439744-03:00[America/Buenos_Aires]","0.0","1.99"
-"Get Pet","Send a Request to get Pet details with a non existing id","SUCCESS","2024-05-31T01:33:13.1501669-03:00[America/Buenos_Aires]","0.0","0.03"
-"Get Pet","[TC-001] Send a Request to get Pet details with an existing id","SUCCESS","2024-05-31T01:37:15.6427629-03:00[America/Buenos_Aires]","0.0","1.84"
-"Get Pet","[TC-002] Send a Request to get Pet details with a non existing id","SUCCESS","2024-05-31T01:37:17.4853283-03:00[America/Buenos_Aires]","0.0","0.04"
-"Get Pet","[TC-001] Validate that sending a Request to get Pet details with an existing id works","SUCCESS","2024-05-31T01:40:52.6344018-03:00[America/Buenos_Aires]","0.0","1.88"
-"Get Pet","[TC-002] Validate that send a Request to get Pet details with a non existing id errors","SUCCESS","2024-05-31T01:40:54.5260605-03:00[America/Buenos_Aires]","0.0","0.03"

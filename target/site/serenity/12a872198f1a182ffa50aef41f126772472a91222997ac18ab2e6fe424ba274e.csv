@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Update Pet","Send a Request to update a Pet with valid data","SUCCESS","2024-05-31T01:33:13.4691831-03:00[America/Buenos_Aires]","0.0","0.05"
-"Update Pet","[TC-006]Send a Request to update a Pet with valid data","SUCCESS","2024-05-31T01:37:17.8148828-03:00[America/Buenos_Aires]","0.0","0.04"
-"Update Pet","[TC-006] Validate that sending a Request to update a Pet with valid data works","SUCCESS","2024-05-31T01:40:54.857635-03:00[America/Buenos_Aires]","0.0","0.05"

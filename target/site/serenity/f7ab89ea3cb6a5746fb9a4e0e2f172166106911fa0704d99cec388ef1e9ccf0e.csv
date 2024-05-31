@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Update Pet","Send a Request to update a Pet with invalid data","SUCCESS","2024-05-31T01:33:13.5223285-03:00[America/Buenos_Aires]","0.0","0.04"
-"Update Pet","[TC-007]Send a Request to update a Pet with invalid data","SUCCESS","2024-05-31T01:37:17.8593751-03:00[America/Buenos_Aires]","0.0","0.03"
-"Update Pet","[TC-007] Validate that sending a Request to update a Pet with invalid data errors","SUCCESS","2024-05-31T01:40:54.9070167-03:00[America/Buenos_Aires]","0.0","0.03"

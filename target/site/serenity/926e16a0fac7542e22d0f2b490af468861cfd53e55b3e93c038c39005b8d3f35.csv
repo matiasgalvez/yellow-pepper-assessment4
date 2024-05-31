@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Delete Order","Send a Request to Delete an order with a valid id","SUCCESS","2024-05-31T01:33:13.439054-03:00[America/Buenos_Aires]","0.0","0.03"
-"Delete Order","[TC-005] Send a Request to Delete an order with a valid id","SUCCESS","2024-05-31T01:37:17.7860062-03:00[America/Buenos_Aires]","0.0","0.03"
-"Delete Order","[TC-005] Validate that sending a Request to Delete an order with a valid id works","SUCCESS","2024-05-31T01:40:54.8248707-03:00[America/Buenos_Aires]","0.0","0.03"
